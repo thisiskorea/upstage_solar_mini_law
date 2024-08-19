@@ -1,3 +1,3 @@
 # upstage_solar_mini_law
-
-Please download the 'upstage' file, open it, and run it.
+1. download the laws file
+2. download the 'upstage' file, open it, and run it.
